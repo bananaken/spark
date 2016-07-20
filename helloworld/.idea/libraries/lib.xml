@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://D:/bin包/spark-1.6.1-bin-hadoop2.6/lib/datanucleus-rdbms-3.2.9.jar!/" />
+      <root url="jar://D:/bin包/spark-1.6.1-bin-hadoop2.6/lib/datanucleus-core-3.2.10.jar!/" />
+      <root url="jar://D:/bin包/spark-1.6.1-bin-hadoop2.6/lib/datanucleus-api-jdo-3.2.6.jar!/" />
+      <root url="file://D:/bin包/spark-1.6.1-bin-hadoop2.6/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/bin包/spark-1.6.1-bin-hadoop2.6/lib" />
+    </SOURCES>
+    <jarDirectory url="file://D:/bin包/spark-1.6.1-bin-hadoop2.6/lib" recursive="false" />
+    <jarDirectory url="file://D:/bin包/spark-1.6.1-bin-hadoop2.6/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
